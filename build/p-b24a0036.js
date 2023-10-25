@@ -1,0 +1,6 @@
+/*!
+ * All material copyright ESRI, All Rights Reserved, unless otherwise specified.
+ * See https://github.com/Esri/calcite-design-system/blob/main/LICENSE.md for details.
+ * v1.10.0-next.7
+ */
+import{d as _}from"./p-aa4b7531.js";import"./p-bac89e07.js";import"./p-6c77c2e4.js";import"./p-d8a3e693.js";import"./p-e501a2ab.js";import"./p-fe45786d.js";import"./p-5de20205.js";import"./p-ba408deb.js";import"./p-59cdfef8.js";import"./p-53177d47.js";import"./p-b155bab4.js";import"./p-6e222163.js";import"./p-31c09125.js";import"./p-c7aec93c.js";import"./p-840394d1.js";import"./p-73638da8.js";import"./p-97c91edb.js";import"./p-9b61fd2b.js";var p={name:"zh-hk",months:"一月_二月_三月_四月_五月_六月_七月_八月_九月_十月_十一月_十二月".split("_"),monthsShort:"1月_2月_3月_4月_5月_6月_7月_8月_9月_10月_11月_12月".split("_"),weekdays:"星期日_星期一_星期二_星期三_星期四_星期五_星期六".split("_"),weekdaysShort:"週日_週一_週二_週三_週四_週五_週六".split("_"),weekdaysMin:"日_一_二_三_四_五_六".split("_"),ordinal:function(_,p){return"W"===p?_+"週":_+"日"},formats:{LT:"HH:mm",LTS:"HH:mm:ss",L:"YYYY/MM/DD",LL:"YYYY年M月D日",LLL:"YYYY年M月D日 HH:mm",LLLL:"YYYY年M月D日dddd HH:mm"},relativeTime:{future:"%s內",past:"%s前",s:"幾秒",m:"一分鐘",mm:"%d 分鐘",h:"一小時",hh:"%d 小時",d:"一天",dd:"%d 天",M:"一個月",MM:"%d 個月",y:"一年",yy:"%d 年"}};_.locale(p,null,!0);export default p;
